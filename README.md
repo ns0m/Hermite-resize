@@ -1,3 +1,10 @@
+### Publication-only version of the [viliusle/Hermite-resize](https://github.com/viliusle/Hermite-resize) package. [![Latest Published Version](https://img.shields.io/npm/v/@ns0m/hermite-resize)](https://www.npmjs.com/package/@ns0m/hermite-resize)
+```
+npm install @ns0m/hermite-resize
+```
+
+---
+
 # Hermite-resize
 Fast canvas image resize/resample using Hermite filter with JavaScript.
 Supports transparency, gives good quality.
