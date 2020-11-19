@@ -10,3 +10,4 @@ nbproject/
 /.project
 /node_modules/
 .idea/
+*.iml
